@@ -1,7 +1,7 @@
 # Robokalam
 This repository contains assignments given in Robokalam's technical round. 
 
-## XAI.docx file contains summary of my learnings on XAI in approx. 100 words.
+**XAI.docx file contains summary of my learnings on XAI in approx. 100 words.**
 
 ## Face Detection Model
 ### Face Detection folder contains the source code for making the face detection model.
@@ -16,3 +16,5 @@ For more information about Flask check out: **https://flask.palletsprojects.com/
 I've made use of **[Haarcascades Classifier](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_objdetect/py_face_detection/py_face_detection.html)** to detect faces in real-time.
 
 The model detects several faces in real-time and shows the output for a single face (the biggest face in terms of area) along with the named caption.
+
+## Python Chatbot
