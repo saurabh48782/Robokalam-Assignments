@@ -18,3 +18,5 @@ I've made use of **[Haarcascades Classifier](https://opencv-python-tutroals.read
 The model detects several faces in real-time and shows the output for a single face (the biggest face in terms of area) along with the named caption.
 
 ## Python Chatbot
+### Chatbot folder contains the source code for making the chatbot.
+It is command line based chatbot.
