@@ -8,7 +8,7 @@ This repository contains assignments given in Robokalam's technical round.
 Tech Stack Used:
 1. **Python**
 2. **OpenCV** (OpenCV is a library of programming functions mainly aimed at real-time computer vision.)
-For more information about Flask check out: **https://opencv.org/**
+For more information about OpenCV check out: **https://opencv.org/**
 3. **Flask** (Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications.)
 For more information about Flask check out: **https://flask.palletsprojects.com/en/1.1.x/**
 
