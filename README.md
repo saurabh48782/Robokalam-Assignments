@@ -13,6 +13,6 @@ For more information about Flask check out: **https://opencv.org/**
 For more information about Flask check out: **https://flask.palletsprojects.com/en/1.1.x/**
 
 -> '**app.py**' inside Face Detection folder contains the written source code.
-I've made use of **[Haarcascades Classifier]** (https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_objdetect/py_face_detection/py_face_detection.html) to detect faces in real-time.
+I've made use of **[Haarcascades Classifier](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_objdetect/py_face_detection/py_face_detection.html)** to detect faces in real-time.
 
 The model detects several faces in real-time and shows the output for a single face (the biggest face in terms of area) along with the named caption.
